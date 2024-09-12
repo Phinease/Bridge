@@ -3,4 +3,4 @@ project(Bridge_data_analyse C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Bridge_data_analyse main.c ai.h game.h process.h)
+add_executable(Bridge_data_analyse main.c monte_carol.h game.h process.h)

@@ -6,13 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/Users/phinease/CLionProjects/Bridge_data_analyse/game.h
+/Users/phinease/CLionProjects/bridge_experiment3/game.h
 
-/Users/phinease/CLionProjects/Bridge_data_analyse/main.c
+/Users/phinease/CLionProjects/bridge_experiment3/main.c
 process.h
-/Users/phinease/CLionProjects/Bridge_data_analyse/process.h
+/Users/phinease/CLionProjects/bridge_experiment3/process.h
 
-/Users/phinease/CLionProjects/Bridge_data_analyse/process.h
+/Users/phinease/CLionProjects/bridge_experiment3/process.h
 game.h
-/Users/phinease/CLionProjects/Bridge_data_analyse/game.h
+/Users/phinease/CLionProjects/bridge_experiment3/game.h
+time.h
+-
 
