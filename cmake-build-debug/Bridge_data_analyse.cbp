@@ -8,91 +8,89 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug"/>
+				<Option working_dir="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug"/>
+				<Option working_dir="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug"/>
+				<Option working_dir="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Bridge_data_analyse">
-				<Option output="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Bridge_data_analyse" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug"/>
+				<Option output="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Bridge_data_analyse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridge_data_analyse"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridge_data_analyse"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Bridge_data_analyse/fast">
-				<Option output="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Bridge_data_analyse" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug"/>
+				<Option output="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Bridge_data_analyse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/usr/include"/>
 					<Add directory="/System/Library/Frameworks"/>
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridge_data_analyse/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Bridge_data_analyse/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/phinease/CLionProjects/bridge_experiment2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/phinease/CLionProjects/Bridge_data_analyse/ai.h">
+		<Unit filename="/Users/phinease/CLionProjects/bridge_experiment2/game.h">
 			<Option target="Bridge_data_analyse"/>
 		</Unit>
-		<Unit filename="/Users/phinease/CLionProjects/Bridge_data_analyse/game.h">
+		<Unit filename="/Users/phinease/CLionProjects/bridge_experiment2/main.c">
 			<Option target="Bridge_data_analyse"/>
 		</Unit>
-		<Unit filename="/Users/phinease/CLionProjects/Bridge_data_analyse/main.c">
+		<Unit filename="/Users/phinease/CLionProjects/bridge_experiment2/monte_carol.h">
 			<Option target="Bridge_data_analyse"/>
 		</Unit>
-		<Unit filename="/Users/phinease/CLionProjects/Bridge_data_analyse/process.h">
+		<Unit filename="/Users/phinease/CLionProjects/bridge_experiment2/process.h">
 			<Option target="Bridge_data_analyse"/>
 		</Unit>
-		<Unit filename="/Users/phinease/CLionProjects/Bridge_data_analyse/CMakeLists.txt">
+		<Unit filename="/Users/phinease/CLionProjects/bridge_experiment2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
