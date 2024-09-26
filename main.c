@@ -1,39 +1,28 @@
 #include "process.h"
+int random_start;
 
-int run[2]={-1,-1};
-int data_check;
+void debug_mode();
 
 
 int main(){
-    srand(time(NULL));
-    int wrong,signal;
-    for(int i=0;i<1000;i++){
-        p_of_data[i]=NULL;
-    }
-    printf("Which kinds of game you would like to play?\n\n");
-    printf("1.Game closed no bid with random player\n");
-    printf("2.Game open no bid with random player\n\n");
-    printf("Choice by taping the number.\n");
-    scanf("%d",&game);
-    while(game<1 || game>2){
-        while ((wrong = getchar()) != EOF && wrong != '\n'){
-            ;
-        }
-        //system("clear");
-        printf("Wrong enter, retry.\n");
-        main();
-        return -1;
-    }
-    signal=debug_mode();
-    ask(signal);
+    srand(1);
+    debug_mode();
     all();
     analyse();
-    do{
-        printf("Do you wanna check the data?(0 for yes,1 for no)\n");
-        scanf("%d",&data_check);
-        if(data_check==0){
-            ask_data();
-        }
-    } while(data_check!=1);
     return 0;
+}
+
+void debug_mode()
+{
+    game=1;
+    printf("Start randomly? \n");
+    scanf("%d",&random_start);
+    run[1]=10000;
+    simulation_times=0;
+    player_random[0]=1;
+    player_random[1]=1;
+    player_random[2]=1;
+    player_random[3]=1;
+    print_func[0]=0;
+    print_func[1]=0;
 }
