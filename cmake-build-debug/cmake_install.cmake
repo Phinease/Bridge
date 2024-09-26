@@ -1,4 +1,4 @@
-# Install script for directory: /Users/phinease/CLionProjects/Bridge_data_analyse
+# Install script for directory: /Users/phinease/CLionProjects/bridge-phinease_monte_carol
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/phinease/CLionProjects/Bridge_data_analyse/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/phinease/CLionProjects/bridge-phinease_monte_carol/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
